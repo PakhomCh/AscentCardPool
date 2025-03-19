@@ -7,7 +7,7 @@ Though do not rest, your journey ends at kontinuum.su
 
 ---
 
-## TODO:
+## TODO
 - Sets
 	- Finish "Firusei: Chronicle of the Fire's Child"
 - Management Apps
@@ -21,7 +21,6 @@ Though do not rest, your journey ends at kontinuum.su
 	- Add Rules page
 	- Add Lore page
 	- Add english versions of pages
-	- Move to kontinuum.su
 - Other
 	- Update the repo name, Ascent -> Ascention
 	- Add Cockatrice style
