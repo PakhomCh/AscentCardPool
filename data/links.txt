@@ -2,3 +2,5 @@ Link 1:
 https://raw.githubusercontent.com/PakhomCh/AscentCardPool/refs/heads/main/data/Ascention.json.xz
 Link 2:
 https://raw.githubusercontent.com/PakhomCh/AscentCardPool/refs/heads/main/data/Ascention.xml
+Link 3:
+https://raw.githubusercontent.com/PakhomCh/AscentCardPool/refs/heads/main/images/!setcode!/!name!.png

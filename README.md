@@ -18,7 +18,6 @@ Though do not rest, your journey ends at kontinuum.su
 - Images
 - Web Pages
 	- Add Welcome page
-	- Add Download page
 	- Add Rules page
 	- Add Lore page
 	- Add english versions of pages
@@ -28,10 +27,3 @@ Though do not rest, your journey ends at kontinuum.su
 	- Add Cockatrice style
 
 Dear Dev community, I am deeply sorry, but I test on prod. 
-
-1. Install Cockatrice
-2. When met with oracle importer, paste links
-3. Add card image link
-4. Restart Cockatrice
-5. Register and verify account
-6. Head to communities to find teammates
