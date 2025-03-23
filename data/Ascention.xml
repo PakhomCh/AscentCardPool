@@ -44,7 +44,7 @@
         <manacost>5 M</manacost>
         <type>Отряд - Солдат</type>
         <maintype>Отряд</maintype>
-        <pt>2</pt>
+        <pt>3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Легион.
@@ -58,7 +58,7 @@
         <manacost>6 M</manacost>
         <type>Отряд - Солдат</type>
         <maintype>Отряд</maintype>
-        <pt>2</pt>
+        <pt>3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Легион.
@@ -72,7 +72,7 @@
         <manacost>4 M</manacost>
         <type>Отряд - Солдат, Знать</type>
         <maintype>Отряд</maintype>
-        <pt>1</pt>
+        <pt>2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Подкрепление, Легион.
@@ -124,7 +124,7 @@
       <set rarity="common">CRM</set>
       <prop>
         <colors>W</colors>
-        <manacost>MMM</manacost>
+        <manacost>MM</manacost>
         <type>Приказ - Стратегия</type>
         <maintype>Приказ</maintype>
       </prop>
@@ -291,7 +291,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Страж.
-Венага получает +3 к силе, если вы разыграли карту за стоимость нежизни в этом раунде.</text>
+Венага получает +4 к силе, если вы разыграли карту за стоимость нежизни в этом раунде.</text>
     </card>
     <card>
       <name>Обряды ковена</name>
@@ -515,7 +515,7 @@
         <maintype>Реликвия</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Заряды — 3.
+      <text>Заряды — 4.
 Заряд: Раньте ваш отряд на 1. Если это уничтожит его, зарядите Грифталль, меч жатвы.</text>
     </card>
     <card>
@@ -567,7 +567,7 @@
         <maintype>Реликвия</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Заряды — 4.
+      <text>Заряды — 3.
 Заряд: Раньте цель, которая не получала урон от баллисты в этом раунде на 2.</text>
     </card>
     <card>
@@ -872,7 +872,7 @@
       <set rarity="common">CRM</set>
       <prop>
         <colors>U</colors>
-        <manacost>MM</manacost>
+        <manacost>M</manacost>
         <type>Приказ - Заклинание</type>
         <maintype>Приказ</maintype>
       </prop>
@@ -890,7 +890,7 @@
       </prop>
       <tablerow>1</tablerow>
       <text>Раньте все вражеские отряды на 2.
-Декрет: Возьмите эту карту из вашего кладбища.</text>
+Декрет: Замешайтие эту карту из вашего кладбища в вашу колоду.</text>
     </card>
     <card>
       <name>Джордани Пламя песков</name>
@@ -932,7 +932,7 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Осторожность.
-Призыв и Атака: Выберите игрока. Он пересдает все карты в своей руке.</text>
+Призыв: Выберите игрока. Он пересдает все карты в своей руке.</text>
     </card>
     <card>
       <name>Туральский ходок</name>
@@ -1696,7 +1696,7 @@
         <pt>1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Все прочие ваши отряды в одной тактике с Лодийский латник получают +1 к броне.</text>
+      <text>Все прочие ваши отряды в одной тактике с Лодийским латником получают +1 к броне.</text>
     </card>
     <card>
       <name>Личина белугута</name>
@@ -1894,7 +1894,7 @@
       <set rarity="common">CRM</set>
       <prop>
         <colors>U</colors>
-        <manacost>M</manacost>
+        <manacost>MM</manacost>
         <type>Приказ - Заклинание</type>
         <maintype>Приказ</maintype>
       </prop>
@@ -1947,7 +1947,7 @@
       <set rarity="rare">CRM</set>
       <prop>
         <colors>B</colors>
-        <manacost>6 M</manacost>
+        <manacost>4 M</manacost>
         <type>Приказ - Проклятие</type>
         <maintype>Приказ</maintype>
       </prop>
@@ -1960,12 +1960,12 @@
       <set rarity="common">CRM</set>
       <prop>
         <colors>W</colors>
-        <manacost>4 M</manacost>
+        <manacost>5 M</manacost>
         <type>Приказ - Проклятие</type>
         <maintype>Приказ</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Отправьте отряд в небытие.</text>
+      <text>Отправьте отряд на поле боя или на кладбище в небытие.</text>
     </card>
     <card>
       <name>Пламенное появление</name>
@@ -1984,7 +1984,7 @@
       <set rarity="common">CRM</set>
       <prop>
         <colors>B</colors>
-        <manacost>MMM</manacost>
+        <manacost>4 M</manacost>
         <type>Приказ - Проклятие</type>
         <maintype>Приказ</maintype>
       </prop>
@@ -2143,7 +2143,7 @@
         <maintype>Приказ</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Нежизнь 5.
+      <text>Нежизнь 3.
 Истощите себя на 4.</text>
     </card>
     <card>
@@ -2258,7 +2258,7 @@
         <manacost>6 M</manacost>
         <type>Укрепление - Сафансаль</type>
         <maintype>Укрепление</maintype>
-        <pt>5</pt>
+        <pt>6</pt>
       </prop>
       <tablerow>1</tablerow>
       <text>Все ваши отряды считаются отрядами с легионом.</text>
@@ -2284,7 +2284,7 @@
         <manacost>MM</manacost>
         <type>Отряд - Солдат</type>
         <maintype>Отряд</maintype>
-        <pt>4</pt>
+        <pt>5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Призыв: Пожертвуйте отряд.</text>
@@ -2320,7 +2320,7 @@
       <set rarity="uncommon">CRM</set>
       <prop>
         <colors>U</colors>
-        <manacost>M</manacost>
+        <manacost>MM</manacost>
         <type>Приказ - Заклинание</type>
         <maintype>Приказ</maintype>
       </prop>
@@ -2358,7 +2358,7 @@
       <set rarity="uncommon">CRM</set>
       <prop>
         <colors>W</colors>
-        <manacost>5 M</manacost>
+        <manacost>4 M</manacost>
         <type>Приказ - Благословение</type>
         <maintype>Приказ</maintype>
       </prop>
@@ -2416,6 +2416,34 @@
       </prop>
       <tablerow>2</tablerow>
       <text>Барьер, Пацифизм.</text>
+    </card>
+    <card>
+      <name>Наблюдательная вышка</name>
+      <set rarity="common">CRM</set>
+      <prop>
+        <colors></colors>
+        <manacost>MM</manacost>
+        <type>Укрепление - Люрд</type>
+        <maintype>Укрепление</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Подкрепление.
+Призыв: Назовите карту.
+Названные карты получают исчезновение.</text>
+    </card>
+    <card>
+      <name>Мистические Руины</name>
+      <set rarity="common">CRM</set>
+      <prop>
+        <colors></colors>
+        <manacost>MMM</manacost>
+        <type>Укрепление - Манай</type>
+        <maintype>Укрепление</maintype>
+        <pt>3</pt>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Все карты стоят на M больше.</text>
     </card>
 
     <!-->Tokens</-->
