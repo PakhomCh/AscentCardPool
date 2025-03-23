@@ -939,7 +939,7 @@
       <set rarity="common">CRM</set>
       <prop>
         <colors></colors>
-        <manacost>2 M</manacost>
+        <manacost>MM</manacost>
         <type>Отряд - Монстр</type>
         <maintype>Отряд</maintype>
         <pt>1</pt>
