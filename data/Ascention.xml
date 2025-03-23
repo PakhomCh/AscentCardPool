@@ -939,13 +939,13 @@
       <set rarity="common">CRM</set>
       <prop>
         <colors></colors>
-        <manacost>5 M</manacost>
+        <manacost>2 M</manacost>
         <type>Отряд - Монстр</type>
         <maintype>Отряд</maintype>
         <pt>1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Туральский ходок получает +1 к силе за каждую карту, взятую вами на этом ходу.</text>
+      <text>Туральский ходок получает +1 к силе за каждую карту, взятую вами в этом раунде.</text>
     </card>
     <card>
       <name>Ветеран Байлицкой битвы</name>
