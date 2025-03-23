@@ -1690,7 +1690,7 @@
       <set rarity="common">CRM</set>
       <prop>
         <colors></colors>
-        <manacost>MM</manacost>
+        <manacost>M</manacost>
         <type>Отряд - Солдат</type>
         <maintype>Отряд</maintype>
         <pt>1</pt>
