@@ -189,6 +189,38 @@ a:hover {
 	z-index: 1;
 }
 
+.griditembulk {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+
+	width: 100%;
+	min-height: calc(100vh - 4em);
+	
+	font-family: "Spectral";
+	color: white;
+	background-color: rgb(32, 32, 32);
+	font-size: 2em;
+
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+	z-index: 1;
+}
+
+.ingridbulk {
+	width: calc(100%);
+
+	background-color: rgba(0, 0, 0, 0.8);
+
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
 .ingridfull {
 	width: calc(100%);
 	height: calc(50%);
@@ -278,6 +310,15 @@ a:hover {
     align-items: center;
     flex-wrap: wrap;
     align-content: center;
+}
+
+.gridtextbulk {
+	width: auto;
+	text-align: left;
+	padding-inline: 2em;
+	font-size: 0.75em;
+	
+	text-shadow: 0px 0px 10px black, 4px 4px 12px black, 4px 4px 14px black;
 }
 
 .gridtext {
