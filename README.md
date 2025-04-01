@@ -17,9 +17,6 @@ Though do not rest, your journey ends at kontinuum.su
 	- Set up extra field commands to add related cards
 - Images
 - Web Pages
-	- Add Welcome page
-	- Add Rules page
-	- Add Lore page
 	- Add english versions of pages
 - Other
 	- Update the repo name, Ascent -> Ascention
