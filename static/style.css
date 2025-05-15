@@ -133,6 +133,56 @@ a:hover {
 	display: flex;
     flex-direction: column;	
 	z-index: 1;
+
+	a {
+		text-shadow: none;
+		font-weight: bold;
+		background: linear-gradient(
+                90deg,
+                #ffffff, /* Красный */
+                #feffff, /* Оранжевый */
+                #fdffff, /* Оранжевый */
+                #fcffff, /* Оранжевый */
+                #fbffff, /* Оранжевый */
+                #faffff, /* Оранжевый */
+                #f1e0ff, /* Жёлтый */
+                #e2c0ff, /* Зелёный */
+                #d4a0ff, /* Синий */
+                #c580ff, /* Индиго */
+                #d4a0ff, /* Синий */
+                #e2c0ff, /* Зелёный */
+                #f1e0ff, /* Жёлтый */
+                #faffff, /* Оранжевый */
+                #fbffff, /* Оранжевый */
+                #fcffff, /* Оранжевый */
+                #fdffff, /* Оранжевый */
+                #feffff, /* Оранжевый */
+                #ffffff,  /* Оранжевый */
+                #feffff, /* Оранжевый */
+                #fdffff, /* Оранжевый */
+                #fcffff, /* Оранжевый */
+                #fbffff, /* Оранжевый */
+                #faffff, /* Оранжевый */
+                #ffecd8, /* Оранжевый */
+                #fff8b8, /* Оранжевый */
+                #ffc489, /* Оранжевый */
+                #ffb061, /* Оранжевый */
+                #ffc489, /* Оранжевый */
+                #fff8b8, /* Оранжевый */
+                #ffecd8, /* Оранжевый */
+                #faffff, /* Оранжевый */
+                #fbffff, /* Оранжевый */
+                #fcffff, /* Оранжевый */
+                #fdffff, /* Оранжевый */
+                #feffff, /* Оранжевый */
+                #ffffff  /* Оранжевый */
+            );
+		background-size: 1000% 100%;
+		-webkit-background-clip: text; /* Применяем градиент к тексту */
+		background-clip: text;
+		color: transparent; /* Делаем текст прозрачным, чтобы был виден градиент */
+		animation: rainbow 8s linear infinite; /* Анимация */
+	}
 }
 
 .contentitem img {
@@ -236,6 +286,19 @@ a:hover {
 
 .ingriddouble {
 	width: calc(100%);
+	height: calc(100%);
+
+	background-color: rgba(0, 0, 0, 0.8);
+
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.ingriddoublethird {
+	width: calc(100% / 3);
 	height: calc(100%);
 
 	background-color: rgba(0, 0, 0, 0.8);
@@ -381,8 +444,8 @@ a:hover {
 }
 
 .gridimage {
-	width: calc(95%);
-    height: auto;
+	width: calc(100%);
+    height: calc(100%);
 
 	display: flex;
     justify-content: center;
@@ -393,10 +456,12 @@ a:hover {
 	text-shadow: 0px 0px 10px black, 4px 4px 12px black, 4px 4px 14px black;
 
 	img {
-		max-height: 24em;
-        min-height: 12em;
+		width: auto;
+    	height: auto;
+		max-height: calc(90%);
         max-width: calc(80%);
 		filter: drop-shadow(0.1em 0.1em 0.5em black);
+		display: block;
 	}
 }
 
