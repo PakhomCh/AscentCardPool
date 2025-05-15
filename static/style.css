@@ -133,6 +133,21 @@ a:hover {
 	display: flex;
     flex-direction: column;	
 	z-index: 1;
+}
+
+.contentitem img {
+	height: 4.5em;
+	width: auto;
+	filter: drop-shadow(4px 4px 16px black);
+	margin-top: 40vh;
+}
+
+.context {
+	width: auto;
+	text-align: center;
+	padding-inline: 2em;
+	
+	text-shadow: 0px 0px 10px black, 4px 4px 12px black, 4px 4px 14px black;
 
 	a {
 		text-shadow: none;
@@ -183,21 +198,6 @@ a:hover {
 		color: transparent; /* Делаем текст прозрачным, чтобы был виден градиент */
 		animation: rainbow 8s linear infinite; /* Анимация */
 	}
-}
-
-.contentitem img {
-	height: 4.5em;
-	width: auto;
-	filter: drop-shadow(4px 4px 16px black);
-	margin-top: 40vh;
-}
-
-.context {
-	width: auto;
-	text-align: center;
-	padding-inline: 2em;
-	
-	text-shadow: 0px 0px 10px black, 4px 4px 12px black, 4px 4px 14px black;
 }
 
 .contextL {
