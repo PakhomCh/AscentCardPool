@@ -1,11 +1,11 @@
 {
     "meta": {
         "date": "07-07-2025",
-        "version": "7.0.38"
+        "version": "7.0.40"
     },
     "data": {
         "CRM": {
-            "name": "ASC Core Remake",
+            "name": "Континуум: Восхождение",
             "code": "CRM",
             "keyruneCode": "CRM",
             "baseSetSize": "193",
