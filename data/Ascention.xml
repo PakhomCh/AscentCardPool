@@ -62,6 +62,7 @@
     <card>
       <name>Прямое нападение</name>
       <set>CRM</set>
+      <set>FDC</set>
       <prop>
         <colors />
         <manacost />
@@ -88,21 +89,6 @@
       <token>1</token>
       <reverse-related>Лодийский военный закон</reverse-related>
       <reverse-related>Ночное пристанище</reverse-related>
-    </card>
-
-  <card>
-      <name>Прямое нападение</name>
-      <set>FDC</set>
-      <prop>
-        <colors />
-        <manacost />
-        <type>Базовая Тактика - Противостояние</type>
-        <maintype>Тактика</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Победа: В следующем раунде издайте на один декрет больше.</text>
-      <token>1</token>
-      
     </card>
     <card>
       <name>Благословение Фарагорта</name>
