@@ -1,101 +1,23 @@
-<?xml version='1.0' encoding='utf-8'?>
-<cockatrice_carddatabase version="4"><sets><set>
-      <name>CRM</name>
-      <longname>ASC Core Remake</longname>
-      <settype>Core</settype>
-    </set>
-  <set>
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
       <name>FDC</name>
       <longname>Фирусей: Хроника Дочери Огня</longname>
       <settype>Core</settype>
     </set>
-  </sets><cards><card>
-      <name>Аколит</name>
-      <set>CRM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>—</manacost>
-        <type>Малый Отряд - Маг</type>
-        <maintype>Отряд</maintype>
-        <pt>1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Арканизм.</text>
-      <token>1</token>
-      <reverse-related>Портальная башня</reverse-related>
-      <reverse-related>Введение в маналогию</reverse-related>
-      <reverse-related>Магический соучастник</reverse-related>
-      <reverse-related>Белугут, наследник хрониса</reverse-related>
-      <reverse-related>Призыв подмоги</reverse-related>
-    </card>
-    <card>
-      <name>Песчаное чудище</name>
-      <set>CRM</set>
-      <prop>
-        <colors />
-        <manacost>—</manacost>
-        <type>Малый Отряд - Монстр</type>
-        <maintype>Отряд</maintype>
-        <pt>2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Ожог.</text>
-      <token>1</token>
-      <reverse-related>Вальд Террор пустыни</reverse-related>
-    </card>
-    <card>
-      <name>Туральский ужас</name>
-      <set>CRM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>—</manacost>
-        <type>Малый Отряд - Монстр</type>
-        <maintype>Отряд</maintype>
-        <pt>1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Осторожность.</text>
-      <token>1</token>
-      <reverse-related>Бенхальф Тактик ковена</reverse-related>
-      <reverse-related>Болотная лачуга</reverse-related>
-    </card>
-    <card>
-      <name>Прямое нападение</name>
-      <set>CRM</set>
-      <prop>
-        <colors />
-        <manacost />
-        <type>Базовая Тактика - Противостояние</type>
-        <maintype>Тактика</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Победа: В следующем раунде издайте на один декрет больше.</text>
-      <token>1</token>
-      
-    </card>
-    <card>
-      <name>Солдат</name>
-      <set>CRM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>—</manacost>
-        <type>Малый Отряд - Солдат</type>
-        <maintype>Отряд</maintype>
-        <pt>1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text />
-      <token>1</token>
-      <reverse-related>Лодийский военный закон</reverse-related>
-      <reverse-related>Ночное пристанище</reverse-related>
-    </card>
+  </sets>
+  <cards>
 
-  <card>
+
+    <!-->Tokens</-->
+
+    <card>
       <name>Прямое нападение</name>
       <set>FDC</set>
       <prop>
-        <colors />
-        <manacost />
+        <colors></colors>
+        <manacost></manacost>
         <type>Базовая Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -109,7 +31,7 @@
       <set>FDC</set>
       <prop>
         <colors>R</colors>
-        <manacost />
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -125,7 +47,7 @@
       <set>FDC</set>
       <prop>
         <colors>R</colors>
-        <manacost />
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -141,7 +63,7 @@
       <set>FDC</set>
       <prop>
         <colors>U</colors>
-        <manacost />
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -156,7 +78,7 @@
       <set>FDC</set>
       <prop>
         <colors>U</colors>
-        <manacost />
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -171,7 +93,7 @@
       <set>FDC</set>
       <prop>
         <colors>B</colors>
-        <manacost />
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -186,7 +108,7 @@
       <set>FDC</set>
       <prop>
         <colors>B</colors>
-        <manacost />
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -201,7 +123,7 @@
       <set>FDC</set>
       <prop>
         <colors>W</colors>
-        <manacost />
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -216,7 +138,7 @@
       <set>FDC</set>
       <prop>
         <colors>W</colors>
-        <manacost />
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -230,8 +152,8 @@
       <name>Принести жертву</name>
       <set>FDC</set>
       <prop>
-        <colors />
-        <manacost />
+        <colors></colors>
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -245,8 +167,8 @@
       <name>Возвести святилище</name>
       <set>FDC</set>
       <prop>
-        <colors />
-        <manacost />
+        <colors></colors>
+        <manacost></manacost>
         <type>Тактика - Противостояние</type>
         <maintype>Тактика</maintype>
       </prop>
@@ -260,7 +182,7 @@
       <name>Культист</name>
       <set>FDC</set>
       <prop>
-        <colors />
+        <colors></colors>
         <manacost>—</manacost>
         <type>Малый Отряд - Маг</type>
         <maintype>Отряд</maintype>
@@ -279,7 +201,7 @@
       <name>Насекомое</name>
       <set>FDC</set>
       <prop>
-        <colors />
+        <colors></colors>
         <manacost>—</manacost>
         <type>Отряд - Монстр</type>
         <maintype>Отряд</maintype>
@@ -340,4 +262,5 @@
       <reverse-related>Кровавый зов</reverse-related>
     </card>
 
-  </cards></cockatrice_carddatabase>
+  </cards>
+</cockatrice_carddatabase>
